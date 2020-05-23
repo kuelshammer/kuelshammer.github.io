@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Suche - Max Külshammer</title>
+<meta name="description" content="Seite, um nach den Inhalten zu suchen.">
+<meta name="generator" content="Hugo 0.71.0" />
+<link href="/index.xml" rel="alternate" type="application/rss+xml">
+<link rel="canonical" href="/search/">
+<link rel="stylesheet" href="/css/theme.min.css">
+<script src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+<link rel="stylesheet" href="/css/chroma.min.css">
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery.easing@1.4.1/jquery.easing.min.js"></script>
+<script src="/js/bundle.js"></script><style>
+:root {}
+</style>
+<meta property="og:title" content="Suche" />
+<meta property="og:description" content="Seite, um nach den Inhalten zu suchen." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/search/" />
+<meta property="article:published_time" content="2018-11-23T15:26:15+00:00" />
+<meta property="article:modified_time" content="2019-10-26T15:26:15+00:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Suche"/>
+<meta name="twitter:description" content="Seite, um nach den Inhalten zu suchen."/>
+<meta itemprop="name" content="Suche">
+<meta itemprop="description" content="Seite, um nach den Inhalten zu suchen.">
+<meta itemprop="datePublished" content="2018-11-23T15:26:15&#43;00:00" />
+<meta itemprop="dateModified" content="2019-10-26T15:26:15&#43;00:00" />
+<meta itemprop="wordCount" content="91">
+
+
+
+<meta itemprop="keywords" content="" /></head>
+<body><div class="container"><header>
+<h1>Max Külshammer</h1>
+
+<p class="description">Informatik, Mathematik und Physik</p>
+
+</header>
+<div class="global-menu">
+<nav>
+<ul>
+<li><a href="/">Home</a></li></ul>
+</nav>
+</div>
+<div class="content-container">
+<main><h1>Suche</h1>
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.0.0/dist/algoliasearch-lite.umd.js" integrity="sha256-MfeKq2Aw9VAkaE9Caes2NOxQf6vUa8Av0JqcUXUGkd0=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.0.0/dist/instantsearch.production.min.js" integrity="sha256-6S7q0JJs/Kx4kb/fv0oMjS855QTz5Rc2hh9AkIUjUsk=" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>
+
+<div id="searchbox"></div>
+<div id="stats"></div>
+<div id="hits"></div>
+<div id="pagination"></div>
+
+<script>
+var search = instantsearch({
+  indexName: 'kuelshammer.github.io',
+  searchClient: algoliasearch(
+    'UJ2JR2P9BE',
+    'b00c64061f115a0dfea17516f777f5a9'
+  ),
+  routing: true,
+});
+
+const renderHits = (renderOptions, isFirstRender) => {
+  const { hits } = renderOptions;
+
+  document.querySelector('#hits').innerHTML = `
+    ${hits
+      .map(
+        item =>
+          `<div class="ais-Hits-item"><h3><a href="${ item.permalink }">${ item.title }</a></h3><p><span class="lastmod">${ dayjs(item.lastmod).format("YYYY/MM/DD") }</span> - ${ item.description ? item.description : item.content.length > 200 ? item.content.substring( 0, 200 ) + '...' : item.content }</p></div>`
+      )
+      .join('')}
+  `;
+};
+
+const customHits = instantsearch.connectors.connectHits( renderHits );
+
+search.addWidgets([
+  instantsearch.widgets.searchBox({
+    container: '#searchbox',
+    showReset: false,
+  }),
+
+  instantsearch.widgets.stats({
+    container: '#stats',
+  }),
+
+  customHits({
+    container: document.querySelector('#hits'),
+  }),
+
+  instantsearch.widgets.pagination({
+    container: '#pagination',
+    maxPages: 20,
+  })
+]);
+
+search.start();
+
+</script>
+
+
+<div class="edit-meta">
+Last updated on 26.10.2019
+
+
+<br>
+Published on 23.11.2018
+<br></div><nav class="pagination"><a class="nav nav-next" href="/informatik/" title="Informatik">Next - Informatik <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+</nav><footer><p class="powered">Powered by <a href="https://gohugo.io">Hugo</a>. Theme by <a href="https://themes.gohugo.io/hugo-theme-techdoc/">TechDoc</a>. Designed by <a href="https://github.com/thingsym/hugo-theme-techdoc">Thingsym</a>.</p>
+</footer>
+</main><div class="sidebar">
+
+<nav class="open-menu">
+<ul>
+<li class=""><a href="/">Home</a></li>
+
+<li class=""><a href="/informatik/">Informatik</a>
+  
+<ul class="sub-menu">
+
+<li class=""><a href="/informatik/wahlfach/">Wahlfach (9-10)</a>
+  
+</li>
+
+<li class=""><a href="/informatik/grundfach/">Grundfach (11-13) </a>
+  
+<ul class="sub-menu">
+
+<li class=""><a href="/informatik/grundfach/datenbanken/">Datenbanken</a>
+  
+</li>
+</ul>
+  
+</li>
+</ul>
+  
+</li>
+
+<li class=""><a href="/mathe/">Mathematik</a>
+  
+<ul class="sub-menu">
+
+<li class=""><a href="/mathe/sek1/">Sek I</a>
+  
+<ul class="sub-menu">
+
+<li class=""><a href="/mathe/sek1/kl9/">Klasse 9</a>
+  
+</li>
+</ul>
+  
+</li>
+</ul>
+  
+</li>
+
+<li class=""><a href="/physik/">Physik</a>
+  
+</li>
+</ul>
+</nav>
+
+
+
+<div class="sidebar-footer"></div>
+</div>
+</div><a href="#" id="backtothetop-fixed" class="backtothetop"
+ data-backtothetop-duration="600"
+ data-backtothetop-easing="easeOutQuart"
+ data-backtothetop-fixed-fadeIn="1000"
+ data-backtothetop-fixed-fadeOut="1000"
+ data-backtothetop-fixed-bottom="10"
+ data-backtothetop-fixed-right="20">
+<span class="fa-layers fa-fw">
+<i class="fas fa-circle"></i>
+<i class="fas fa-arrow-circle-up"></i>
+</span></a>
+</div>
+</body>
+</html>
