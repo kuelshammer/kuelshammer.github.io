@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Informatik on Max Külshammer</title>
-    <link>https://kuelshammer.github.io/informatik/</link>
+    <link>/informatik/</link>
     <description>Recent content in Informatik on Max Külshammer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
     
-	<atom:link href="https://kuelshammer.github.io/informatik/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/informatik/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
