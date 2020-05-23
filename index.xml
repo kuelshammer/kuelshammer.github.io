@@ -11,14 +11,5 @@
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Makro</title>
-      <link>/informatik2/inf7rechner/makro/</link>
-      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
-      
-      <guid>/informatik2/inf7rechner/makro/</guid>
-      <description>Makro bei Johnny</description>
-    </item>
-    
   </channel>
 </rss>
