@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quadratische Gleichungen on Max Külshammer</title>
+    <link>/mathe9/quadgleichungen/</link>
+    <description>Recent content in Quadratische Gleichungen on Max Külshammer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
+    
+	<atom:link href="/mathe9/quadgleichungen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Satz vom Nullprodukt</title>
+      <link>/mathe9/quadgleichungen/nullprodukt/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>/mathe9/quadgleichungen/nullprodukt/</guid>
+      <description>Anwendung des Satzes vom Nullprodukt Beweis des Satzes vom Nullprodukt </description>
+    </item>
+    
+  </channel>
+</rss>
