@@ -12,12 +12,21 @@
     
     
     <item>
-      <title>Der Murmelrechner</title>
-      <link>/informatik11-13/inf7rechner/murmelrechner/</link>
+      <title>Satz vom Nullprodukt</title>
+      <link>/mathe9/quadgleichungen/nullprodukt/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/informatik11-13/inf7rechner/murmelrechner/</guid>
-      <description></description>
+      <guid>/mathe9/quadgleichungen/nullprodukt/</guid>
+      <description>Der Satz vom Nullprodukt   Beweis des Satz vom Nullprodukt   </description>
+    </item>
+    
+    <item>
+      <title>Quadratische Ergänzung</title>
+      <link>/mathe9/quadgleichungen/quad_erg%C3%A4nzung/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>/mathe9/quadgleichungen/quad_erg%C3%A4nzung/</guid>
+      <description>Anwendung des Satzes vom Nullprodukt Beweis des Satzes vom Nullprodukt </description>
     </item>
     
     <item>
@@ -35,7 +44,16 @@
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
       <guid>/mathe9/quadgleichungen/pq_formel/</guid>
-      <description>Anwendung des Satzes vom Nullprodukt   Beweis des Satzes vom Nullprodukt   </description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Satz von Vieta</title>
+      <link>/mathe9/quadgleichungen/vieta/</link>
+      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
+      
+      <guid>/mathe9/quadgleichungen/vieta/</guid>
+      <description>Anwendung des Satzes vom Nullprodukt Beweis des Satzes vom Nullprodukt </description>
     </item>
     
     <item>
@@ -48,30 +66,12 @@
     </item>
     
     <item>
-      <title>Quadratische Ergänzung</title>
-      <link>/mathe9/quadgleichungen/quad_erg%C3%A4nzung/</link>
+      <title>Der Murmelrechner</title>
+      <link>/informatik11-13/inf7rechner/murmelrechner/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/mathe9/quadgleichungen/quad_erg%C3%A4nzung/</guid>
-      <description>Anwendung des Satzes vom Nullprodukt Beweis des Satzes vom Nullprodukt </description>
-    </item>
-    
-    <item>
-      <title>Satz vom Nullprodukt</title>
-      <link>/mathe9/quadgleichungen/nullprodukt/</link>
-      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
-      
-      <guid>/mathe9/quadgleichungen/nullprodukt/</guid>
-      <description>Anwendung des Satzes vom Nullprodukt Beweis des Satzes vom Nullprodukt </description>
-    </item>
-    
-    <item>
-      <title>Satz von Vieta</title>
-      <link>/mathe9/quadgleichungen/vieta/</link>
-      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
-      
-      <guid>/mathe9/quadgleichungen/vieta/</guid>
-      <description>Anwendung des Satzes vom Nullprodukt Beweis des Satzes vom Nullprodukt </description>
+      <guid>/informatik11-13/inf7rechner/murmelrechner/</guid>
+      <description></description>
     </item>
     
     <item>
