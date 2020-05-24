@@ -12,16 +12,6 @@
     
     
     <item>
-      <title>Der Bonsai-Simulationsrechner</title>
-      <link>/informatik2/inf7rechner/bonsai/</link>
-      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
-      
-      <guid>/informatik2/inf7rechner/bonsai/</guid>
-      <description>Bezugsquellen Bonsai wurde von Johannes Merkert entwicklet. Entweder man installiert eine Simulationssoftware für Python bzw. die DOSBox oder arbeitet mit einer Webversion.
- Python DOSBox WebversionVideos Bonsai vs. Johnny   Grundfunktion des Bonsai-Simulationsprogramms   Datenregister nullen   Datenregister kopieren   </description>
-    </item>
-    
-    <item>
       <title>Der Johnny-Simulationsrechner</title>
       <link>/informatik2/inf7rechner/johnny/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
