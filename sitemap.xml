@@ -8,8 +8,7 @@
   </url>
   
   <url>
-    <loc>/physik8/tf4_dynamik/</loc>
-    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+    <loc>/physik8/tf4_dynamik/geradlinig/</loc>
   </url>
   
   <url>
@@ -28,12 +27,13 @@
   </url>
   
   <url>
-    <loc>/mathe9/quadgleichungen/wasistquad/</loc>
+    <loc>/physik8/tf4_dynamik/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/physik8/tf4_dynamik/geradlinig/</loc>
+    <loc>/mathe9/quadgleichungen/wasistquad/</loc>
+    <lastmod>2017-10-17T15:26:15+00:00</lastmod>
   </url>
   
   <url>
@@ -44,6 +44,10 @@
   <url>
     <loc>/mathe9/quadgleichungen/nullprodukt/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/physik8/tf4_dynamik/kraft/</loc>
   </url>
   
   <url>
@@ -73,6 +77,10 @@
   
   <url>
     <loc>/mathe9/quadgleichungen/vieta2/</loc>
+  </url>
+  
+  <url>
+    <loc>/physik8/tf4_dynamik/test/</loc>
   </url>
   
   <url>

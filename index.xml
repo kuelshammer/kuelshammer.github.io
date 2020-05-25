@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Geradlinig-gleichförmige Bewegung</title>
+      <link>/physik8/tf4_dynamik/geradlinig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/physik8/tf4_dynamik/geradlinig/</guid>
+      <description>Lösungen zu Übungsaufgaben Die Aufgaben sind aus dem Buch Dorn-Bader Physik.
+S. 126 A3   S. 126 A5   S. 129 A1   S. 131 A5   S. 132 A2   S. 132 A4   S. 132 A5   S. 132 A7   </description>
+    </item>
+    
+    <item>
       <title>Der Murmelrechner</title>
       <link>/informatik11-13/inf7rechner/murmelrechner/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
@@ -27,16 +37,6 @@
       
       <guid>/mathe9/quadgleichungen/wasistquad/</guid>
       <description>TODO </description>
-    </item>
-    
-    <item>
-      <title>Geradlinig-gleichförmige Bewegung</title>
-      <link>/physik8/tf4_dynamik/geradlinig/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/physik8/tf4_dynamik/geradlinig/</guid>
-      <description>Lösunen zu Übungsaufgaben Die Aufgaben sind aus dem Buch Dorn-Bader Physik.
-S. 126 A3   S. 126 A5   S. 129 A1   S. 131 A5   S. 132 A2   S. 132 A4   S. 132 A5   S. 132 A7   </description>
     </item>
     
     <item>
@@ -56,6 +56,15 @@ S. 126 A3   S. 126 A5   S. 129 A1   S. 131 A5   S. 132 A2   S. 132 A4   S. 132 A
       
       <guid>/mathe9/quadgleichungen/nullprodukt/</guid>
       <description>Der Satz vom Nullprodukt   Beweis des Satz vom Nullprodukt   </description>
+    </item>
+    
+    <item>
+      <title>Kraft</title>
+      <link>/physik8/tf4_dynamik/kraft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/physik8/tf4_dynamik/kraft/</guid>
+      <description>Kraft &amp;ndash; physikalisch und umgangssprachlich   Kraft als Wechselwirkung   Wirkung von Kräften   Kraftmessung   Gewichtskraft   Veränderung der Geschwindigkeit   Beschleunigung im Zeit-Geschwindigkeits-Diagramm   </description>
     </item>
     
     <item>
@@ -111,6 +120,15 @@ S. 126 A3   S. 126 A5   S. 129 A1   S. 131 A5   S. 132 A2   S. 132 A4   S. 132 A
       
       <guid>/mathe9/quadgleichungen/vieta2/</guid>
       <description>TODO </description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>/physik8/tf4_dynamik/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/physik8/tf4_dynamik/test/</guid>
+      <description></description>
     </item>
     
   </channel>
