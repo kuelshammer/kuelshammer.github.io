@@ -1,25 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Funktionsweise eines Rechners on Max Külshammer</title>
-    <link>/informatik2/inf7rechner/</link>
-    <description>Recent content in Funktionsweise eines Rechners on Max Külshammer</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language>
-    <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
-    
-	<atom:link href="/informatik2/inf7rechner/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Der Johnny-Simulationsrechner</title>
-      <link>/informatik2/inf7rechner/johnny/</link>
-      <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
-      
-      <guid>/informatik2/inf7rechner/johnny/</guid>
-      <description>Bezugsquellen Johnny wurde von Peter Dauscher entwicklet. Entweder man installiert die Software oder arbeitet mit einer Webversion.
- Download WebversionVideos Bonsai vs. Johnny   Speichermodell des Johnny-Modellrechners   Rechenwerk des Johnny-Modellrechners   Übungen zu Johnnys Mikrobefehlen   Makrobefehle bei Johnny   Johnny&amp;rsquo;s INC Makrobefehl aus Mikrobefehlen   Befehlsdekodierung bei Johnny   Assemblerprogramm interpretieren   Assemblercode für Johnny schreiben   Johnny&amp;rsquo;s TAKE Makrobefehl optimieren   Makrobefehl DBL selber schreiben   </description>
-    </item>
-    
-  </channel>
-</rss>
