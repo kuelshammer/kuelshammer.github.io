@@ -18,19 +18,19 @@
 </style>
 <meta property="og:title" content="Der Johnny-Simulationsrechner" />
 <meta property="og:description" content="Bezugsquellen Johnny wurde von Peter Dauscher entwicklet. Entweder man installiert die Software oder arbeitet mit einer Webversion.
- Download WebversionVideos Bonsai vs. Johnny   Speichermodell des Johnny-Modellrechners   Rechenwerk des Johnny-Modellrechners   Übungen zu Johnnys Mikrobefehlen   Makrobefehle bei Johnny   Johnny&rsquo;s INC Makrobefehl aus Mikrobefehlen   Befehlsdekodierung bei Johnny   Assemblerprogramm interpretieren   Assemblercode für Johnny schreiben   Johnny&rsquo;s TAKE Makrobefehl optimieren   Makrobefehl DBL selber schreiben   " />
+ Download WebversionVideos Bonsai vs. Johnny   Speichermodell des Johnny-Modellrechners   Rechenwerk des Johnny-Modellrechners   Übungen zu Johnnys Mikrobefehlen   Makrobefehle bei Johnny   Johnny&rsquo;s INC Makrobefehl aus Mikrobefehlen   Befehlsdekodierung bei Johnny   Assemblerprogramm interpretieren   Assemblercode für Johnny schreiben   Johnny&rsquo;s TAKE Makrobefehl optimieren   Makrobefehl DBL selber schreiben   Makrobefehl CPYschreiben &ndash; Mehr-Adress-Befehl In diesem Video wird der Mehr-Adress-Befehl CPY für den Johnny-Simulationsrechner erstellt." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/informatik11-13/inf7rechner/johnny/" />
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Der Johnny-Simulationsrechner"/>
 <meta name="twitter:description" content="Bezugsquellen Johnny wurde von Peter Dauscher entwicklet. Entweder man installiert die Software oder arbeitet mit einer Webversion.
- Download WebversionVideos Bonsai vs. Johnny   Speichermodell des Johnny-Modellrechners   Rechenwerk des Johnny-Modellrechners   Übungen zu Johnnys Mikrobefehlen   Makrobefehle bei Johnny   Johnny&rsquo;s INC Makrobefehl aus Mikrobefehlen   Befehlsdekodierung bei Johnny   Assemblerprogramm interpretieren   Assemblercode für Johnny schreiben   Johnny&rsquo;s TAKE Makrobefehl optimieren   Makrobefehl DBL selber schreiben   "/>
+ Download WebversionVideos Bonsai vs. Johnny   Speichermodell des Johnny-Modellrechners   Rechenwerk des Johnny-Modellrechners   Übungen zu Johnnys Mikrobefehlen   Makrobefehle bei Johnny   Johnny&rsquo;s INC Makrobefehl aus Mikrobefehlen   Befehlsdekodierung bei Johnny   Assemblerprogramm interpretieren   Assemblercode für Johnny schreiben   Johnny&rsquo;s TAKE Makrobefehl optimieren   Makrobefehl DBL selber schreiben   Makrobefehl CPYschreiben &ndash; Mehr-Adress-Befehl In diesem Video wird der Mehr-Adress-Befehl CPY für den Johnny-Simulationsrechner erstellt."/>
 <meta itemprop="name" content="Der Johnny-Simulationsrechner">
 <meta itemprop="description" content="Bezugsquellen Johnny wurde von Peter Dauscher entwicklet. Entweder man installiert die Software oder arbeitet mit einer Webversion.
- Download WebversionVideos Bonsai vs. Johnny   Speichermodell des Johnny-Modellrechners   Rechenwerk des Johnny-Modellrechners   Übungen zu Johnnys Mikrobefehlen   Makrobefehle bei Johnny   Johnny&rsquo;s INC Makrobefehl aus Mikrobefehlen   Befehlsdekodierung bei Johnny   Assemblerprogramm interpretieren   Assemblercode für Johnny schreiben   Johnny&rsquo;s TAKE Makrobefehl optimieren   Makrobefehl DBL selber schreiben   ">
+ Download WebversionVideos Bonsai vs. Johnny   Speichermodell des Johnny-Modellrechners   Rechenwerk des Johnny-Modellrechners   Übungen zu Johnnys Mikrobefehlen   Makrobefehle bei Johnny   Johnny&rsquo;s INC Makrobefehl aus Mikrobefehlen   Befehlsdekodierung bei Johnny   Assemblerprogramm interpretieren   Assemblercode für Johnny schreiben   Johnny&rsquo;s TAKE Makrobefehl optimieren   Makrobefehl DBL selber schreiben   Makrobefehl CPYschreiben &ndash; Mehr-Adress-Befehl In diesem Video wird der Mehr-Adress-Befehl CPY für den Johnny-Simulationsrechner erstellt.">
 
-<meta itemprop="wordCount" content="58">
+<meta itemprop="wordCount" content="188">
 
 
 
@@ -68,6 +68,9 @@
         <li><a href="#assemblercode-für-johnny-schreiben">Assemblercode für Johnny schreiben</a></li>
         <li><a href="#johnnys-take-makrobefehl-optimieren">Johnny&rsquo;s <code>TAKE</code> Makrobefehl optimieren</a></li>
         <li><a href="#makrobefehl-dbl-selber-schreiben">Makrobefehl <code>DBL</code> selber schreiben</a></li>
+        <li><a href="#makrobefehl-cpyschreiben----mehr-adress-befehl">Makrobefehl <code>CPY</code>schreiben &ndash; Mehr-Adress-Befehl</a></li>
+        <li><a href="#makrobefehl-taco-schreiben----mehr-adress-befehl">Makrobefehl <code>TACO</code> schreiben &ndash; Mehr-Adress-Befehl</a></li>
+        <li><a href="#makrobefehl-addr-schreiben----mehr-adress-befehl">Makrobefehl <code>ADDR</code> schreiben &ndash; Mehr-Adress-Befehl</a></li>
       </ul>
     </li>
   </ul>
@@ -146,6 +149,27 @@
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/NnUtF00jFK0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h3 id="makrobefehl-cpyschreiben----mehr-adress-befehl">Makrobefehl <code>CPY</code>schreiben &ndash; Mehr-Adress-Befehl</h3>
+<p>In diesem Video wird der Mehr-Adress-Befehl CPY für den Johnny-Simulationsrechner erstellt. Dies entspricht der Aufgabe 4 aus dem Kapitel <a href="https://www.inf-schule.de/7.3.6.1">7.3.6.1</a> von Inf-Schule. Der Befehl <code>CPY soll</code> dabei den Wert von einem Register in ein zweites Register kopieren.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/86iqWLoHY8I" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h3 id="makrobefehl-taco-schreiben----mehr-adress-befehl">Makrobefehl <code>TACO</code> schreiben &ndash; Mehr-Adress-Befehl</h3>
+<p>In diesem Video wird der Mehr-Adress-Befehl <code>TACO</code> für den Johnny-Simulationsrechner erstellt. Dies entspricht der Aufgabe 5 aus dem Kapitel <a href="https://www.inf-schule.de/7.3.6.1">7.3.6.1</a> von Inf-Schule. Der Befehl <code>TACO</code> soll ermöglichen, dass man den Wert von einem Register auf einen bestimmten konstanten Wert setzen kann.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h3 id="makrobefehl-addr-schreiben----mehr-adress-befehl">Makrobefehl <code>ADDR</code> schreiben &ndash; Mehr-Adress-Befehl</h3>
+<p>In diesem Video wird der Mehr-Adress-Befehl <code>ADDR</code> für den Johnny-Simulationsrechner erstellt. Der Befehl ADDP soll dabei ein Register direkt um den Wert eines zweiten Registers erhöhen, ohne dass man den Umweg über <code>TAKE</code>, <code>ADD</code> und <code>SAVE</code> gehen muss.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
 <div class="edit-meta">
