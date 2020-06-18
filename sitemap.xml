@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/mathe11-13/analysis/</loc>
+  </url>
+  
+  <url>
     <loc>/informatik11-13/inf7rechner/</loc>
   </url>
   
@@ -34,6 +38,10 @@
   
   <url>
     <loc>/informatik11-13/inf7rechner/murmelrechner/</loc>
+  </url>
+  
+  <url>
+    <loc>/mathe11-13/analysis/nullstellen/</loc>
   </url>
   
   <url>
@@ -96,6 +104,10 @@
   <url>
     <loc>/mathe9/</loc>
     <lastmod>2017-10-17T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathe11-13/</loc>
   </url>
   
   <url>
