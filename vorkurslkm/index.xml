@@ -11,12 +11,12 @@
     
     
     <item>
-      <title>Binomische Formeln</title>
-      <link>/vorkurslkm/woche3/</link>
+      <title>Zahlbereiche und Rechengesetze</title>
+      <link>/vorkurslkm/woche1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/vorkurslkm/woche3/</guid>
-      <description>Binomische Formeln    Binomische Formel    Binomische Formel    Binomische Formel    Erweiterungen  Satz von Vieta Trinomische Formeln Binomischer Lehrsatz  </description>
+      <guid>/vorkurslkm/woche1/</guid>
+      <description>Natürliche Zahlen  Kommutativgesetz Assoziativgesetz Distributivgesetz  Ganze Zahlen  Vorzeichenregeln Subtraktion als Gegenoperation zur Addition  Rationale Zahlen  Bruchschreibweisen, Kürzen, Erweitern Addition, Subtraktion, Multiplikation und Division von Brüchen  Reelle Zahlen  irrationale Zahlen  </description>
     </item>
     
     <item>
@@ -29,12 +29,12 @@
     </item>
     
     <item>
-      <title>Potenz-, Logarithmen- und Wurzelgesetze</title>
-      <link>/vorkurslkm/woche5/</link>
+      <title>Binomische Formeln</title>
+      <link>/vorkurslkm/woche3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/vorkurslkm/woche5/</guid>
-      <description>Potenzgesetze Wurzelgesetze Logarithmengesetze </description>
+      <guid>/vorkurslkm/woche3/</guid>
+      <description>Binomische Formeln    Binomische Formel    Binomische Formel    Binomische Formel    Erweiterungen  Satz von Vieta Trinomische Formeln Binomischer Lehrsatz  </description>
     </item>
     
     <item>
@@ -47,12 +47,12 @@
     </item>
     
     <item>
-      <title>Zahlbereiche und Rechengesetze</title>
-      <link>/vorkurslkm/woche1/</link>
+      <title>Potenz-, Logarithmen- und Wurzelgesetze</title>
+      <link>/vorkurslkm/woche5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/vorkurslkm/woche1/</guid>
-      <description>Natürliche Zahlen  Kommutativgesetz Assoziativgesetz Distributivgesetz  Ganze Zahlen  Vorzeichenregeln Subtraktion als Gegenoperation zur Addition  Rationale Zahlen  Bruchschreibweisen, Kürzen, Erweitern Addition, Subtraktion, Multiplikation und Division von Brüchen  Reelle Zahlen  irrationale Zahlen  </description>
+      <guid>/vorkurslkm/woche5/</guid>
+      <description>Potenzgesetze Wurzelgesetze Logarithmengesetze </description>
     </item>
     
   </channel>
