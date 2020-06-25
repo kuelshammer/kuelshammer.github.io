@@ -10,5 +10,14 @@
 	<atom:link href="/vorkurs7/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>/vorkurs7/woche1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/vorkurs7/woche1/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
