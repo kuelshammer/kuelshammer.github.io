@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Max Külshammer</title>
-    <link>/</link>
+    <link>https://www.maxkuelshammer.de/</link>
     <description>Recent content on Max Külshammer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.maxkuelshammer.de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Klammern ausmultiplizieren</title>
-      <link>/mathe8/binome/klammern/</link>
+      <link>https://www.maxkuelshammer.de/mathe8/binome/klammern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/mathe8/binome/klammern/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe8/binome/klammern/</guid>
       <description>Wiederholung Distributivgesetz In diesem Video zeige ich euch anschaulich, weshalb das Distributivgesetz (Verteilugsgesetz) gilt und dass es die Alltagssituationen sinnvoll in der Mathematik widerspiegelt.
   Klammern ausmultiplizieren In diesem Video wird die Regel, nach der Klammern ausmultipliziert werden, einmal mithilfe des Distributivgesetzes und das andere mal durch einen geometrischen Beweis, verdeutlicht.
   </description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Die Binomischen Formeln</title>
-      <link>/mathe8/binome/erste/</link>
+      <link>https://www.maxkuelshammer.de/mathe8/binome/erste/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/mathe8/binome/erste/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe8/binome/erste/</guid>
       <description>1. Binomische Formel In diesem Video wird die 1. Binomische Formel hergeleitet und geometrisch veranschaulicht.
   2. Binomische Formel In diesem Video leiten wir die 2. Binomische Formel auf zwei Wegen her und Veranschaulichen diese geometrisch.
   3. Binomische Formel In diesem Video wird die 3. Binomische Formel erst hergeleitet und anschließend geometrisch veranschaulicht.
@@ -36,77 +36,77 @@
     
     <item>
       <title>Geradlinig-gleichförmige Bewegung</title>
-      <link>/physik8/tf4_dynamik/geradlinig/</link>
+      <link>https://www.maxkuelshammer.de/physik8/tf4_dynamik/geradlinig/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/physik8/tf4_dynamik/geradlinig/</guid>
+      <guid>https://www.maxkuelshammer.de/physik8/tf4_dynamik/geradlinig/</guid>
       <description>Lösungen zu Übungsaufgaben Die Aufgaben sind aus dem Buch Dorn-Bader Physik.
 S. 126 A3   S. 126 A5   S. 129 A1   S. 131 A5   S. 132 A2   S. 132 A4   S. 132 A5   S. 132 A7   </description>
     </item>
     
     <item>
       <title>Was ist eine quadratische Gleichung?</title>
-      <link>/mathe9/quadgleichungen/wasistquad/</link>
+      <link>https://www.maxkuelshammer.de/mathe9/quadgleichungen/wasistquad/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/mathe9/quadgleichungen/wasistquad/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe9/quadgleichungen/wasistquad/</guid>
       <description>Was ist eine quadratische Gleichung?   </description>
     </item>
     
     <item>
       <title>Der Murmelrechner</title>
-      <link>/informatik11-13/inf7rechner/murmelrechner/</link>
+      <link>https://www.maxkuelshammer.de/informatik11-13/inf7rechner/murmelrechner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/informatik11-13/inf7rechner/murmelrechner/</guid>
+      <guid>https://www.maxkuelshammer.de/informatik11-13/inf7rechner/murmelrechner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nullstellen</title>
-      <link>/mathe11-13/analysis/nullstellen/</link>
+      <link>https://www.maxkuelshammer.de/mathe11-13/analysis/nullstellen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/mathe11-13/analysis/nullstellen/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe11-13/analysis/nullstellen/</guid>
       <description>Nullstellen bei ganzrationalen Funktionen (Polynomen) Faktorisierung ohne Polynomdivision In diesem Video zeige ich euch einen genialen Trick, mit dem man die Polynomdivision vermeiden kann und trotzdem die Faktorisierung des Polynoms erhält.
   </description>
     </item>
     
     <item>
       <title>Satz vom Nullprodukt</title>
-      <link>/mathe9/quadgleichungen/nullprodukt/</link>
+      <link>https://www.maxkuelshammer.de/mathe9/quadgleichungen/nullprodukt/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/mathe9/quadgleichungen/nullprodukt/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe9/quadgleichungen/nullprodukt/</guid>
       <description>Der Satz vom Nullprodukt   Beweis des Satz vom Nullprodukt   </description>
     </item>
     
     <item>
       <title>Der Bonsai-Simulationsrechner</title>
-      <link>/informatik11-13/inf7rechner/bonsai/</link>
+      <link>https://www.maxkuelshammer.de/informatik11-13/inf7rechner/bonsai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/informatik11-13/inf7rechner/bonsai/</guid>
+      <guid>https://www.maxkuelshammer.de/informatik11-13/inf7rechner/bonsai/</guid>
       <description>Bezugsquellen Johnny wurde von Peter Dauscher entwicklet. Entweder man installiert die Software oder arbeitet mit einer Webversion.
  Download WebversionVideos Speichermodell des Johnny-Modellrechners   Rechenwerk des Johnny-Modellrechners   Übungen zu Johnnys Mikrobefehlen   Makrobefehle bei Johnny   Johnny&amp;rsquo;s INC Makrobefehl aus Mikrobefehlen   Befehlsdekodierung bei Johnny   Assemblerprogramm interpretieren   Assemblercode für Johnny schreiben   Johnny&amp;rsquo;s TAKE Makrobefehl optimieren   Makrobefehl DBL selber schreiben   Bonsai vs.</description>
     </item>
     
     <item>
       <title>Kraft</title>
-      <link>/physik8/tf4_dynamik/kraft/</link>
+      <link>https://www.maxkuelshammer.de/physik8/tf4_dynamik/kraft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/physik8/tf4_dynamik/kraft/</guid>
+      <guid>https://www.maxkuelshammer.de/physik8/tf4_dynamik/kraft/</guid>
       <description>Kraft &amp;ndash; physikalisch und umgangssprachlich   Kraft als Wechselwirkung   Wirkung von Kräften   Kraftmessung   Gewichtskraft   Veränderung der Geschwindigkeit   Beschleunigung im Zeit-Geschwindigkeits-Diagramm   Übungsaufgabe Grundgleichung der Mechanik In diesem Video wird die Musterlösung zu einer Physikübungsaufgabe zur Grundgleichung der Mechanik vorgestellt. Als Beispiel wird der Weltrekord bei der Aufschlaggeschwindigkeit beim Tennis benutzt.
   Übungsaufgabe Grundgleichung der Mechanik In diesem Video wird die Musterlösung zu einer Physikübungsaufgabe zur Grundgleichung der Mechanik vorgestellt.</description>
     </item>
     
     <item>
       <title>Spezielle quadratische Gleichungen</title>
-      <link>/mathe9/quadgleichungen/spezial/</link>
+      <link>https://www.maxkuelshammer.de/mathe9/quadgleichungen/spezial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/mathe9/quadgleichungen/spezial/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe9/quadgleichungen/spezial/</guid>
       <description>Spezialfall ax^2+c=0 lösen In diesem Video zeige ich euch, wie man die Lösung einer rein quadratischen Gleichung (c=0) anhand der Definition der Wurzel finden kann.
   Spezialfall ax^2+bx= 0 lösen In diesem Video erläutere ich, wie wir bei einem fehlenden Absolutglied (c=0) die quadratische Gleichung einfach mit dem Satz vom Nullprodukt lösen können.
   </description>
@@ -114,39 +114,39 @@ S. 126 A3   S. 126 A5   S. 129 A1   S. 131 A5   S. 132 A2   S. 132 A4   S. 132 A
     
     <item>
       <title>Quadratische Ergänzung</title>
-      <link>/mathe9/quadgleichungen/quad_erg%C3%A4nzung/</link>
+      <link>https://www.maxkuelshammer.de/mathe9/quadgleichungen/quad_erg%C3%A4nzung/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/mathe9/quadgleichungen/quad_erg%C3%A4nzung/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe9/quadgleichungen/quad_erg%C3%A4nzung/</guid>
       <description>Quadratische Ergänzung - Herleitung &amp;amp; Veranschaulichung In diesem Video wird das Verfahren der quadratischen Ergänzung zum Lösen von quadratischen Gleichungen vorgestellt. Zusätzlich zu der algebraischen Herleitung wird das Verfahren auch grafisch veranschaulicht.
   Quadratische Ergänzung - Aufgaben &amp;amp; Lösungen In diesem Video wird an drei Beispielen das Verfahren der quadratischen Ergänzung veranschaulicht. Du solltest mit Stift und Papier die Aufgaben bei pausierten Video selber rechnen, um maximalen Lernerfolg zu erzielen.</description>
     </item>
     
     <item>
       <title>Der Johnny-Simulationsrechner</title>
-      <link>/informatik11-13/inf7rechner/johnny/</link>
+      <link>https://www.maxkuelshammer.de/informatik11-13/inf7rechner/johnny/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/informatik11-13/inf7rechner/johnny/</guid>
+      <guid>https://www.maxkuelshammer.de/informatik11-13/inf7rechner/johnny/</guid>
       <description>Bezugsquellen Johnny wurde von Peter Dauscher entwicklet. Entweder man installiert die Software oder arbeitet mit einer Webversion.
  Download WebversionVideos Bonsai vs. Johnny   Speichermodell des Johnny-Modellrechners   Rechenwerk des Johnny-Modellrechners   Übungen zu Johnnys Mikrobefehlen   Makrobefehle bei Johnny   Johnny&amp;rsquo;s INC Makrobefehl aus Mikrobefehlen   Befehlsdekodierung bei Johnny   Assemblerprogramm interpretieren   Assemblercode für Johnny schreiben   Johnny&amp;rsquo;s TAKE Makrobefehl optimieren   Makrobefehl DBL selber schreiben   Makrobefehl CPYschreiben &amp;ndash; Mehr-Adress-Befehl In diesem Video wird der Mehr-Adress-Befehl CPY für den Johnny-Simulationsrechner erstellt.</description>
     </item>
     
     <item>
       <title>Die abc-Formel</title>
-      <link>/mathe9/quadgleichungen/abc_formel/</link>
+      <link>https://www.maxkuelshammer.de/mathe9/quadgleichungen/abc_formel/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/mathe9/quadgleichungen/abc_formel/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe9/quadgleichungen/abc_formel/</guid>
       <description>Die abc-Formel anwenden   Herleitung der abc-Formel aus der pq-Formel   Herleitung der abc-Formel mit quadratischer Ergänzung   </description>
     </item>
     
     <item>
       <title>Die pq-Formel</title>
-      <link>/mathe9/quadgleichungen/pq_formel/</link>
+      <link>https://www.maxkuelshammer.de/mathe9/quadgleichungen/pq_formel/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/mathe9/quadgleichungen/pq_formel/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe9/quadgleichungen/pq_formel/</guid>
       <description>pq-Formel anwenden In diesem Video wird die pq-Formel auf einige quadratische Gleichungen angewandt. Übungsvideo zum Mitrechnen.   Herleitung der pq-Formel aus der abc-Formel In diesem Video wird die pq-Formel aus der abc-Formel hergeleitet.
   Herleitung der pq-Formel mit quadratischer Ergänzung In diesem Video wird die pq-Formel mithilfe der quadratischen Ergänzung hergeleitet.
   </description>
@@ -154,10 +154,10 @@ S. 126 A3   S. 126 A5   S. 129 A1   S. 131 A5   S. 132 A2   S. 132 A4   S. 132 A
     
     <item>
       <title>Satz von Vieta</title>
-      <link>/mathe9/quadgleichungen/vieta/</link>
+      <link>https://www.maxkuelshammer.de/mathe9/quadgleichungen/vieta/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/mathe9/quadgleichungen/vieta/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe9/quadgleichungen/vieta/</guid>
       <description>Satz von Vieta In diesem Video wird die Idee des Satz von Vieta erläutert und gezeigt.
   Quadratische Gleichung mit Satz von Vieta lösen Mit Hilfe des Satz von Vieta kann man quadratische Gleichungen durch Faktorisieren und dem Satz vom Nullprodukt leicht lösen. Hier wird an einigen Beispielen die Idee verdeutlicht und die Grenzen dieser Methode aufgezeigt.
   Übungsblatt zum Satz von Vieta Du findest hier einen sogenannten Klapptest, mit dem du durch wegklappen der Lösungen üben kannst.</description>
@@ -165,39 +165,39 @@ S. 126 A3   S. 126 A5   S. 129 A1   S. 131 A5   S. 132 A2   S. 132 A4   S. 132 A
     
     <item>
       <title>Eine neue Art quadratische Gleichungen zu lösen</title>
-      <link>/mathe9/quadgleichungen/vieta2/</link>
+      <link>https://www.maxkuelshammer.de/mathe9/quadgleichungen/vieta2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/mathe9/quadgleichungen/vieta2/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe9/quadgleichungen/vieta2/</guid>
       <description>TODO </description>
     </item>
     
     <item>
       <title>Eingangsdiagnose Klasse 7</title>
-      <link>/vorkurs7/woche1/</link>
+      <link>https://www.maxkuelshammer.de/vorkurs7/woche1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/vorkurs7/woche1/</guid>
+      <guid>https://www.maxkuelshammer.de/vorkurs7/woche1/</guid>
       <description>Liebe Klasse 7c! Bevor ihr anfangt Themen für die 7. Klasse zu wiederholen, solltet ihr erst einmal klären, wo ihr denn mit euren Kenntnissen steht. Daher verlinke ich euch eine Eingangsdiagnose für die 7. Klasse. Bittet eure Eltern dieses Dokument für euch auszudrucken und fertig zu machen.
  DownloadFür die Durchführung solltet ihr zwei Stifte und ein Geodreieck bereitliegen haben. Die Bearbeitungsdauer beträgt 40 Minuten, welche ihr am besten mit einem gestellten Wecker kontrollieren solltet.</description>
     </item>
     
     <item>
       <title>Lösungen Eingangsdiagnose</title>
-      <link>/vorkurs7/woche2/</link>
+      <link>https://www.maxkuelshammer.de/vorkurs7/woche2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/vorkurs7/woche2/</guid>
+      <guid>https://www.maxkuelshammer.de/vorkurs7/woche2/</guid>
       <description>Lösungen Anbei die Lösungen für die Eingangsdiagnose. Die Lösungen befinden sich auf Seite 3.
  Lösung</description>
     </item>
     
     <item>
       <title>Rechnen mit natürlichen Zahlen</title>
-      <link>/vorkurs7/woche3/</link>
+      <link>https://www.maxkuelshammer.de/vorkurs7/woche3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/vorkurs7/woche3/</guid>
+      <guid>https://www.maxkuelshammer.de/vorkurs7/woche3/</guid>
       <description>Addition Rechengesetze der Addition In diesem Video wird erläutert, weshalb das Kommutativ- und Assoziativgesetz der Addition für natürliche Zahlen gilt. Dabei veranschaulichen wir was die beiden Gesetze bedeuten. Schließlich sehen wir uns gemeinsam an, wie man mithilfe dieser beiden Gesetze Rechenvorteile nutzen kann.
   Schriftliches Addieren In diesem Video zeige ich euch, wie man mehrstellige Zahlen ohne schriftliche Addition als Nebenrechnung direkt durchführen kann.
   Übungen Auf der Seite E-Learning Klasse 5-6 von Maria Niehaves, findest du eine Vielzahl an passenden Übungen zu diesem Themengebiet.</description>
@@ -205,37 +205,37 @@ S. 126 A3   S. 126 A5   S. 129 A1   S. 131 A5   S. 132 A2   S. 132 A4   S. 132 A
     
     <item>
       <title>Woche 4</title>
-      <link>/vorkurs7/woche4/</link>
+      <link>https://www.maxkuelshammer.de/vorkurs7/woche4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/vorkurs7/woche4/</guid>
+      <guid>https://www.maxkuelshammer.de/vorkurs7/woche4/</guid>
       <description>TODO </description>
     </item>
     
     <item>
       <title>Woche 5</title>
-      <link>/vorkurs7/woche5/</link>
+      <link>https://www.maxkuelshammer.de/vorkurs7/woche5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/vorkurs7/woche5/</guid>
+      <guid>https://www.maxkuelshammer.de/vorkurs7/woche5/</guid>
       <description>TODO </description>
     </item>
     
     <item>
       <title>Woche 6</title>
-      <link>/vorkurs7/woche6/</link>
+      <link>https://www.maxkuelshammer.de/vorkurs7/woche6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/vorkurs7/woche6/</guid>
+      <guid>https://www.maxkuelshammer.de/vorkurs7/woche6/</guid>
       <description>TODO </description>
     </item>
     
     <item>
       <title>Eingangsdiagnose 11</title>
-      <link>/vorkurslkm/woche1/</link>
+      <link>https://www.maxkuelshammer.de/vorkurslkm/woche1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/vorkurslkm/woche1/</guid>
+      <guid>https://www.maxkuelshammer.de/vorkurslkm/woche1/</guid>
       <description>Liebe 10. Klassen! Bevor ihr anfangt Themen für die 11. Klasse zu wiederholen, solltet ihr erst einmal klären, wo ihr denn mit euren Kenntnissen steht. Daher verlinke ich euch eine Eingangsdiagnose für die 11. Klasse.
  DownloadFür die Durchführung solltet ihr Stifte und einen Taschenrechner bereitliegen haben. Die Bearbeitungsdauer beträgt 90 Minuten, welche ihr am besten mit einem gestellten Wecker kontrollieren solltet.
 In der zweiten Ferienwoche, werde ich euch auch die Lösungen zukommen lassen, so dass ihr dann bereits ein Feedback habt, was ihr noch gut könnt und an welchen Stellen ihr Dinge nochmal ansehen müsst.</description>
@@ -243,57 +243,57 @@ In der zweiten Ferienwoche, werde ich euch auch die Lösungen zukommen lassen, s
     
     <item>
       <title>Lösung Eingangstest 11</title>
-      <link>/vorkurslkm/woche2/</link>
+      <link>https://www.maxkuelshammer.de/vorkurslkm/woche2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/vorkurslkm/woche2/</guid>
+      <guid>https://www.maxkuelshammer.de/vorkurslkm/woche2/</guid>
       <description>Liebe 10. Klassen! Hier die Lösungen zum Eingangstest.
  Download</description>
     </item>
     
     <item>
       <title>Woche 3</title>
-      <link>/vorkurslkm/woche3/</link>
+      <link>https://www.maxkuelshammer.de/vorkurslkm/woche3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/vorkurslkm/woche3/</guid>
+      <guid>https://www.maxkuelshammer.de/vorkurslkm/woche3/</guid>
       <description>Geraden Geradengleichungen Graphen von Geraden Übungen Außerdem findest Du auf der Seite Kapptest 7-8 noch PDF-Dokumente zum Ausdrucken. Dabei handelt es sich um sogenannte Klapptests, bei denen man die Lösung vor der Bearbeitung wegklappt und später kontrolliert. Die folgenden Aufgaben würden passen:
  Funktionen als Graph darstellen Funktionsgleichung aus m und P Funktionsgleichung aus b und P Funktionsgleichung aus P und Q  Lineare Gleichungen Gleichungen aufstellen Äquivalenzumformungen Lösungsmengen Übungen Auf der Seite E-Learning Klasse 7-8 von Maria Niehaves, findest du eine Vielzahl an passenden Übungen zu diesem Themengebiet.</description>
     </item>
     
     <item>
       <title>Woche 4</title>
-      <link>/vorkurslkm/woche4/</link>
+      <link>https://www.maxkuelshammer.de/vorkurslkm/woche4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/vorkurslkm/woche4/</guid>
+      <guid>https://www.maxkuelshammer.de/vorkurslkm/woche4/</guid>
       <description>Parablen  Parabelgleichung Graphen von Parabeln  Quadratische Gleichungen  quadratische Ergänzung pq-Formel abc-Formel Satz von Vieta  </description>
     </item>
     
     <item>
       <title>Woche 5</title>
-      <link>/vorkurslkm/woche5/</link>
+      <link>https://www.maxkuelshammer.de/vorkurslkm/woche5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/vorkurslkm/woche5/</guid>
+      <guid>https://www.maxkuelshammer.de/vorkurslkm/woche5/</guid>
       <description>Potenzgesetze Wurzelgesetze Logarithmengesetze </description>
     </item>
     
     <item>
       <title>Woche 6</title>
-      <link>/vorkurslkm/woche6/</link>
+      <link>https://www.maxkuelshammer.de/vorkurslkm/woche6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/vorkurslkm/woche6/</guid>
+      <guid>https://www.maxkuelshammer.de/vorkurslkm/woche6/</guid>
       <description>Potenzgesetze Wurzelgesetze Logarithmengesetze </description>
     </item>
     
     <item>
       <title></title>
-      <link>/youtube/</link>
+      <link>https://www.maxkuelshammer.de/youtube/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/youtube/</guid>
+      <guid>https://www.maxkuelshammer.de/youtube/</guid>
       <description>In diesem Video erkläre ich, wie man zwei Klammern miteinander multipliziert. Dabei werden wir nicht nur mit dem Distributivgesetz arbeiten, sondern das Ganze durch eine geeignete Visualisierung verdeutlichen.
  Über diesen Kanal:
 Hallo,
@@ -302,10 +302,10 @@ ich hoffe, dass dir das Video gefallen hat. Wenn du etwas gelernt und verstanden
     
     <item>
       <title>Impressum</title>
-      <link>/impressum/</link>
+      <link>https://www.maxkuelshammer.de/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/impressum/</guid>
+      <guid>https://www.maxkuelshammer.de/impressum/</guid>
       <description>Angaben gemäß § 5 TMG Max Külshammer
 Boffertsweg 51
 53489 Sinzig

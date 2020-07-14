@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Analysis on Max Külshammer</title>
-    <link>/mathe11-13/analysis/</link>
+    <link>https://www.maxkuelshammer.de/mathe11-13/analysis/</link>
     <description>Recent content in Analysis on Max Külshammer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     
-	<atom:link href="/mathe11-13/analysis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.maxkuelshammer.de/mathe11-13/analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nullstellen</title>
-      <link>/mathe11-13/analysis/nullstellen/</link>
+      <link>https://www.maxkuelshammer.de/mathe11-13/analysis/nullstellen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/mathe11-13/analysis/nullstellen/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe11-13/analysis/nullstellen/</guid>
       <description>Nullstellen bei ganzrationalen Funktionen (Polynomen) Faktorisierung ohne Polynomdivision In diesem Video zeige ich euch einen genialen Trick, mit dem man die Polynomdivision vermeiden kann und trotzdem die Faktorisierung des Polynoms erhält.
   </description>
     </item>

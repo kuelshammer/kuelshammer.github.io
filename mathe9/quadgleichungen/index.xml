@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quadratische Gleichungen on Max Külshammer</title>
-    <link>/mathe9/quadgleichungen/</link>
+    <link>https://www.maxkuelshammer.de/mathe9/quadgleichungen/</link>
     <description>Recent content in Quadratische Gleichungen on Max Külshammer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     <lastBuildDate>Tue, 17 Oct 2017 15:26:15 +0000</lastBuildDate>
     
-	<atom:link href="/mathe9/quadgleichungen/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.maxkuelshammer.de/mathe9/quadgleichungen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Was ist eine quadratische Gleichung?</title>
-      <link>/mathe9/quadgleichungen/wasistquad/</link>
+      <link>https://www.maxkuelshammer.de/mathe9/quadgleichungen/wasistquad/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/mathe9/quadgleichungen/wasistquad/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe9/quadgleichungen/wasistquad/</guid>
       <description>Was ist eine quadratische Gleichung?   </description>
     </item>
     
     <item>
       <title>Satz vom Nullprodukt</title>
-      <link>/mathe9/quadgleichungen/nullprodukt/</link>
+      <link>https://www.maxkuelshammer.de/mathe9/quadgleichungen/nullprodukt/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/mathe9/quadgleichungen/nullprodukt/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe9/quadgleichungen/nullprodukt/</guid>
       <description>Der Satz vom Nullprodukt   Beweis des Satz vom Nullprodukt   </description>
     </item>
     
     <item>
       <title>Spezielle quadratische Gleichungen</title>
-      <link>/mathe9/quadgleichungen/spezial/</link>
+      <link>https://www.maxkuelshammer.de/mathe9/quadgleichungen/spezial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/mathe9/quadgleichungen/spezial/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe9/quadgleichungen/spezial/</guid>
       <description>Spezialfall ax^2+c=0 lösen In diesem Video zeige ich euch, wie man die Lösung einer rein quadratischen Gleichung (c=0) anhand der Definition der Wurzel finden kann.
   Spezialfall ax^2+bx= 0 lösen In diesem Video erläutere ich, wie wir bei einem fehlenden Absolutglied (c=0) die quadratische Gleichung einfach mit dem Satz vom Nullprodukt lösen können.
   </description>
@@ -42,29 +42,29 @@
     
     <item>
       <title>Quadratische Ergänzung</title>
-      <link>/mathe9/quadgleichungen/quad_erg%C3%A4nzung/</link>
+      <link>https://www.maxkuelshammer.de/mathe9/quadgleichungen/quad_erg%C3%A4nzung/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/mathe9/quadgleichungen/quad_erg%C3%A4nzung/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe9/quadgleichungen/quad_erg%C3%A4nzung/</guid>
       <description>Quadratische Ergänzung - Herleitung &amp;amp; Veranschaulichung In diesem Video wird das Verfahren der quadratischen Ergänzung zum Lösen von quadratischen Gleichungen vorgestellt. Zusätzlich zu der algebraischen Herleitung wird das Verfahren auch grafisch veranschaulicht.
   Quadratische Ergänzung - Aufgaben &amp;amp; Lösungen In diesem Video wird an drei Beispielen das Verfahren der quadratischen Ergänzung veranschaulicht. Du solltest mit Stift und Papier die Aufgaben bei pausierten Video selber rechnen, um maximalen Lernerfolg zu erzielen.</description>
     </item>
     
     <item>
       <title>Die abc-Formel</title>
-      <link>/mathe9/quadgleichungen/abc_formel/</link>
+      <link>https://www.maxkuelshammer.de/mathe9/quadgleichungen/abc_formel/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/mathe9/quadgleichungen/abc_formel/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe9/quadgleichungen/abc_formel/</guid>
       <description>Die abc-Formel anwenden   Herleitung der abc-Formel aus der pq-Formel   Herleitung der abc-Formel mit quadratischer Ergänzung   </description>
     </item>
     
     <item>
       <title>Die pq-Formel</title>
-      <link>/mathe9/quadgleichungen/pq_formel/</link>
+      <link>https://www.maxkuelshammer.de/mathe9/quadgleichungen/pq_formel/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/mathe9/quadgleichungen/pq_formel/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe9/quadgleichungen/pq_formel/</guid>
       <description>pq-Formel anwenden In diesem Video wird die pq-Formel auf einige quadratische Gleichungen angewandt. Übungsvideo zum Mitrechnen.   Herleitung der pq-Formel aus der abc-Formel In diesem Video wird die pq-Formel aus der abc-Formel hergeleitet.
   Herleitung der pq-Formel mit quadratischer Ergänzung In diesem Video wird die pq-Formel mithilfe der quadratischen Ergänzung hergeleitet.
   </description>
@@ -72,10 +72,10 @@
     
     <item>
       <title>Satz von Vieta</title>
-      <link>/mathe9/quadgleichungen/vieta/</link>
+      <link>https://www.maxkuelshammer.de/mathe9/quadgleichungen/vieta/</link>
       <pubDate>Tue, 17 Oct 2017 15:26:15 +0000</pubDate>
       
-      <guid>/mathe9/quadgleichungen/vieta/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe9/quadgleichungen/vieta/</guid>
       <description>Satz von Vieta In diesem Video wird die Idee des Satz von Vieta erläutert und gezeigt.
   Quadratische Gleichung mit Satz von Vieta lösen Mit Hilfe des Satz von Vieta kann man quadratische Gleichungen durch Faktorisieren und dem Satz vom Nullprodukt leicht lösen. Hier wird an einigen Beispielen die Idee verdeutlicht und die Grenzen dieser Methode aufgezeigt.
   Übungsblatt zum Satz von Vieta Du findest hier einen sogenannten Klapptest, mit dem du durch wegklappen der Lösungen üben kannst.</description>
@@ -83,10 +83,10 @@
     
     <item>
       <title>Eine neue Art quadratische Gleichungen zu lösen</title>
-      <link>/mathe9/quadgleichungen/vieta2/</link>
+      <link>https://www.maxkuelshammer.de/mathe9/quadgleichungen/vieta2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/mathe9/quadgleichungen/vieta2/</guid>
+      <guid>https://www.maxkuelshammer.de/mathe9/quadgleichungen/vieta2/</guid>
       <description>TODO </description>
     </item>
     
